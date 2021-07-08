@@ -1,4 +1,4 @@
-# EnGaze
+# Artifical Invigilator
 
 A lightweight, real-time application to invigilate an exam automatically without requiring any manual invigilator, expensive hardware or data-set training. Suited for users with lesser bandwidth.
 
